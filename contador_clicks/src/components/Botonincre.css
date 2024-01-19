@@ -1,0 +1,12 @@
+.incre{
+    padding: 30px;
+}
+.butincre{
+    padding: 20px 20px;
+    background-color: rgb(207, 12, 181);
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    box-shadow: 1px 1px 7px rgb(253, 247, 247) ;
+    cursor: pointer;
+}
